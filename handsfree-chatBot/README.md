@@ -1,6 +1,11 @@
 # Built a prototype of a hands-free conversational AI chat bot to create an accessible application that can be operated with speech.
 **Technologies used**: Google Cloud Text-to-Speech API, React js, Python, RAG LLM
 
+Here is a demo of the hands-free chat bot
+
+https://github.com/SwethaBatta/genai/assets/33192347/792aa1b8-5728-463b-9179-1f85f179d670
+
+
 ## Product Features
 ```
 * Conversational chatbot that lets users input and receive responses in speech format.
