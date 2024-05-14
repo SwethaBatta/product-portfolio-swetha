@@ -6,9 +6,9 @@ of requests processed by the Customer Service team
  
 
 ## Demo
-Here is a demo of how the chat bot works
+Here is a demo of how the chatbot works
+https://github.com/SwethaBatta/product-portfolio-swetha/assets/33192347/3f5415c9-0b79-45e6-9a1a-39323192707f
 
-https://github.com/SwethaBatta/genai/assets/33192347/f28ac9e4-b093-420f-aa21-254d1f6af214
 
 ## Product Features
 <pre>
