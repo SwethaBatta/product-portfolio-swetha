@@ -7,6 +7,10 @@ Developed a summarizer using Gemini which accepts a youtube video and summarizes
 Here is a demo of how the summarizer works
 
 
+https://github.com/user-attachments/assets/dae05af3-96e6-4820-8a1b-65f16eccf62b
+
+
+
 ## Product Features
 <pre>
 * <b>Youtube Video URL input:</b> The input is a youtube video URL.
