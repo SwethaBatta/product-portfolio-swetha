@@ -10,3 +10,8 @@
 2. Add a video file named `testVideo.mp4` in the root directory.
 3. Run the app: `python main.py`
 4. Press `q` to quit.
+
+
+
+https://github.com/user-attachments/assets/24bda7ac-34b4-44f1-91a1-51fcddc33ab0
+
